@@ -1,0 +1,7 @@
+tidigits
+models_*
+results_*
+*.pyc
+*.swp
+workdir
+htkModelParser
