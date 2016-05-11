@@ -5,3 +5,5 @@ results_*
 *.swp
 workdir
 htkModelParser
+config
+*.odt#
